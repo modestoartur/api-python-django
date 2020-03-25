@@ -1,7 +1,10 @@
 # Files
 .DS_Store
 */.DS_Store
+.gitignore
+db.sqlite3
 
 # Folders
 /env
 .vscode
+**/__pycache__/
